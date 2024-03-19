@@ -13,9 +13,10 @@ public class Main {
         }
 
         //merge test
-        int chenbin = 1;
-        if (chenbin == 1) {
-            System.out.println("chenbin = 1");
+        //fix conflic
+        int origin_chenbin = 1;
+        if (origin_chenbin == 1) {
+            System.out.println("origin_chenbin = 1");
         }
     }
 }
