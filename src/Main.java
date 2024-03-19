@@ -11,5 +11,11 @@ public class Main {
         if (origin_main_chenbin_dev == 1) {
             System.out.println("origin_main_chenbin_dev = 1");
         }
-     }
+
+        //merge test
+        int chenbin = 1;
+        if (chenbin == 1) {
+            System.out.println("chenbin = 1");
+        }
+    }
 }
