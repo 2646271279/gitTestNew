@@ -28,5 +28,10 @@ public class Main {
         if (feat1 == 1) {
             System.out.println("feat1 = 1");
         }
+        //feat 2
+        int feat2 = 1;
+        if (feat2 == 1) {
+            System.out.println("feat2 = 2");
+        }
     }
 }
