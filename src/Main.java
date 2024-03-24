@@ -38,5 +38,9 @@ public class Main {
         if (feat3 == 1) {
             System.out.println("feat3 = 3");
         }
+
+        //feat1 main
+        int feat1Main = 1;
+        System.out.println("feat1Main");
     }
 }
