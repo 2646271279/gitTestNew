@@ -23,5 +23,20 @@ public class Main {
         if (featMain == 1) {
             System.out.println("featMain = 1");
         }
+        //feat 1
+        int feat1 = 1;
+        if (feat1 == 1) {
+            System.out.println("feat1 = 1");
+        }
+        //feat 2
+        int feat2 = 1;
+        if (feat2 == 1) {
+            System.out.println("feat2 = 2");
+        }
+        //feat 3
+        int feat3 = 1;
+        if (feat3 == 1) {
+            System.out.println("feat3 = 3");
+        }
     }
 }
