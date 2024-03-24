@@ -55,5 +55,8 @@ public class Main {
         //feat5
         int feat5 = 1;
         System.out.println("feat5");
+        //feat6
+        int feat6 = 1;
+        System.out.println("feat6");
     }
 }
