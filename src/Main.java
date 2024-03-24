@@ -18,5 +18,10 @@ public class Main {
         if (origin_chenbin == 1) {
             System.out.println("origin_chenbin = 1");
         }
+        //feat main
+        int featMain = 1;
+        if (featMain == 1) {
+            System.out.println("featMain = 1");
+        }
     }
 }
