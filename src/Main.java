@@ -51,5 +51,9 @@ public class Main {
         //feat1 3
         int feat13 = 1;
         System.out.println("feat13");
+
+        //feat5
+        int feat5 = 1;
+        System.out.println("feat5");
     }
 }
